@@ -1,5 +1,15 @@
+Food:
+_____
 idly
 dosa
 coffee
 fruit salad
 ice cream
+
+Movies
+______
+Tholiprema
+Swayamkrushi
+kushi
+Gabbar Singh
+1-Nennokadine
